@@ -6,7 +6,9 @@
 
 - 本工作区（Lemma AI Analysis Engine）是 Analysis Engine 研究的原型/草稿空间。
 - **正式研究仓库：`D:\github projects\analysis-engine-research`**（2026-10-17 初始化，
-  本地 git，无远端）。结论性东西落那个仓库，不落这里。
+  **git 尚未初始化** —— 沙箱拒授权，需用户手动 `git init -b main`）。
+- **研究总导航：`analysis-engine-research\META-ROADMAP.md`** —— 阶段、现状、门、下一步，
+  日常决策先查它；近端实验队列在 `docs\roadmap.md`。结论性东西落那个仓库，不落这里。
 
 ## 工作原则（从任务约定与既往反馈固化）
 
